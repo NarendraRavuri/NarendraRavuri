@@ -15,7 +15,7 @@ Welcome to my GitHub profile! 🌟
 ![Languages](https://skillicons.dev/icons?i=python,js,c,cpp,java,ts)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=django,docker,flask,fastapi,kafka)]
+![Backend Technologies](https://skillicons.dev/icons?i=django,docker,flask,fastapi,kafka)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
