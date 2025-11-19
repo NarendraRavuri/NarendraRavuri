@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Narendra Ravuri! 👋
 
-<!--
-**NarendraRavuri/NarendraRavuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=NarendraRavuri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraRavuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/narendraravuri)
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=python,js,c,cpp,java,ts)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=django,docker,flask,fastapi,kafka)]
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=discord,git,github,linux,markdown,nodejs,npm,vscode,pycharm,githubactions,gitlab,ubuntu)
