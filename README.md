@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 🌟
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,js,c,cpp,java,ts)
+![Languages](https://skillicons.dev/icons?i=python,js,c,cpp,java,ts,go)
 
 #### Backend Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=django,docker,flask,fastapi,kafka)
